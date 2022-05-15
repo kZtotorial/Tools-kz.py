@@ -71,13 +71,12 @@
 ```
 ## PREVIEW
 <p align="center">
-  <img src="https://k.top4top.io/p_231058c5h0.png" />
+  <img src="https://a.top4top.io/p_2325lgfln0.jpg" />
 </p>
   
 ## CMD INSTALL 
 ```bash 
 > $ apt update && apt upgrade
-> $ pkg install figlet
 > $ pkg install lolcat
 > $ pkg install python2
 > $ pkg install requests
@@ -87,9 +86,9 @@
 > caranya adalah:
 
 > $ pkg install git
-> $ git clone https://github.com/kZtotorial/TAMPILAN-TERMUX
-> $ cd 
+> $ git clone https://github.com/kZtotorial/Tools-kz.py
+> $ cd Tools-kz.py
 > $ ls
-> $ python 
+> $ python Tools-kzv1.py
 
 ```
